@@ -28,6 +28,11 @@ Data Analyst passionate about transforming raw data into meaningful insights tha
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" style="margin-right:8px;"/></a>
 
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png"
+       alt="AWS" title="AWS" width="36" height="36" style="margin-right:8px;"/>
+</a>
+
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36"/></a>
 
