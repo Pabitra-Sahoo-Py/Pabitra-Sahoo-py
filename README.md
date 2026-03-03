@@ -48,6 +48,11 @@ Data Analyst passionate about transforming raw data into meaningful insights tha
        alt="KPI" title="KPI" width="36" height="36" style="margin-right:8px;"/>
 </a>
 
+<a href="https://en.wikipedia.org/wiki/A/B_testing" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=M33pu040UVtF&format=png&color=000000"
+       alt="A/B Testing" title="A/B Testing" width="36" height="36" style="margin-right:8px;"/>
+</a>
+
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36"/></a>
 
