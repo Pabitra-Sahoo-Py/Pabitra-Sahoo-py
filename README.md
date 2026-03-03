@@ -38,6 +38,11 @@ Data Analyst passionate about transforming raw data into meaningful insights tha
        alt="Power BI" title="Power BI" width="36" height="36" style="margin-right:8px;"/>
 </a>
 
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000"
+       alt="Microsoft Excel" title="Microsoft Excel" width="36" height="36" style="margin-right:8px;"/>
+</a>
+
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36"/></a>
 
