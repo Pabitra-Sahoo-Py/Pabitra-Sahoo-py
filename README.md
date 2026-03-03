@@ -43,6 +43,11 @@ Data Analyst passionate about transforming raw data into meaningful insights tha
        alt="Microsoft Excel" title="Microsoft Excel" width="36" height="36" style="margin-right:8px;"/>
 </a>
 
+<a href="https://en.wikipedia.org/wiki/Key_performance_indicator" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=4tSyQosZoCw3&format=png&color=000000"
+       alt="KPI" title="KPI" width="36" height="36" style="margin-right:8px;"/>
+</a>
+
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36"/></a>
 
