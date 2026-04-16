@@ -18,7 +18,7 @@ Data Analyst passionate about transforming raw data into meaningful insights tha
 <a href="https://www.sqlite.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" width="36"/></a>&nbsp;&nbsp;
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36"/></a>
 
-<br><br>
+<br>
 
 <!-- Row 2 -->
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png" width="36"/></a>&nbsp;&nbsp;
