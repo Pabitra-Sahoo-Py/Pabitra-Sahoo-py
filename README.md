@@ -9,53 +9,11 @@ Data Analyst passionate about transforming raw data into meaningful insights tha
 * 🌍  I'm based in India
 
 <p align="left">
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" style="margin-right:8px;"/></a>
-
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas" width="36" height="36" style="margin-right:8px;"/></a>
-
-<a href="https://numpy.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy" width="36" height="36" style="margin-right:8px;"/></a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" style="margin-right:8px;"/></a>
-
-<a href="https://www.sqlite.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite" width="36" height="36" style="margin-right:8px;"/></a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" style="margin-right:8px;"/></a>
-
-<a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png"
-       alt="AWS" title="AWS" width="36" height="36" style="margin-right:8px;"/>
-</a>
-
-<a href="https://powerbi.microsoft.com/" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000"
-       alt="Power BI" title="Power BI" width="36" height="36" style="margin-right:8px;"/>
-</a>
-
-<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000"
-       alt="Microsoft Excel" title="Microsoft Excel" width="36" height="36" style="margin-right:8px;"/>
-</a>
-
-<a href="https://en.wikipedia.org/wiki/Key_performance_indicator" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=4tSyQosZoCw3&format=png&color=000000"
-       alt="KPI" title="KPI" width="36" height="36" style="margin-right:8px;"/>
-</a>
-
-<a href="https://en.wikipedia.org/wiki/A/B_testing" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=M33pu040UVtF&format=png&color=000000"
-       alt="A/B Testing" title="A/B Testing" width="36" height="36" style="margin-right:8px;"/>
-</a>
-
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36"/></a>
-
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36"/></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" width="36"/></a>
+<a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" width="36"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36"/></a>
 </p>
 
 
